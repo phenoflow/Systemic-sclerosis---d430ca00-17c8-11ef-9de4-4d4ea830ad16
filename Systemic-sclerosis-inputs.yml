@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/systemic-sclerosis-crest---primary.py
+inputModule3:
+  class: File
+  path: python/systemic-sclerosis---primary.py
+inputModule4:
+  class: File
+  path: python/systemic-sclerosis-scleroderma---primary.py
+inputModule5:
+  class: File
+  path: python/sclerosis---primary.py
+inputModule6:
+  class: File
+  path: python/systemic-sclerosis-acrosclerosis---primary.py
+inputModule7:
+  class: File
+  path: python/renal-systemic-sclerosis---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
